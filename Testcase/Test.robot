@@ -9,5 +9,5 @@ ${password}     bbbb
 
 ***Test Cases***
 Test login
-    Open Browser With Defined Resolution
+    Open Browser    www.google.com    Chrome
     Facebook_login_features.Login Local  ${username}  ${password}
