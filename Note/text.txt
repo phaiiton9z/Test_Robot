@@ -1,0 +1,2 @@
+run
+robot -v runmode:desktop test.robot
